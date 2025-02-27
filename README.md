@@ -1,0 +1,1 @@
+# MNGoswami25-AI-Driven-Crop-Disease-Prediction-and-Management-System_Major-Project
