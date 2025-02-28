@@ -133,7 +133,7 @@ app = Flask(__name__)
 
 @ app.route('/')
 def home():
-    title = 'Harvestify - Home'
+    title = 'Home'
     return render_template('index.html', title=title)
 
 # render crop recommendation form page
